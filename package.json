@@ -2,7 +2,7 @@
     "name": "webpack-lesson",
     "type": "module",
     "version": "1.0.0",
-    "homepage": "https://Aliona4.github.io/online-shop",
+    "homepage": "https://micnovic.github.io/online-shop",
     "description": "webpack 2022 build",
     "main": "index.js",
     "repository": {
